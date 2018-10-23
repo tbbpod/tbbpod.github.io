@@ -1,0 +1,13 @@
+title: The Bruised Banana
+email: bruisedbananapod@gmail.com
+description: >-
+  The Bruised Banana: An Arsenal podcast
+baseurl: ""
+url: "http://www.tbbpod.com"
+twitter_username: tbbpod
+github_username:  tbbpod
+
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
